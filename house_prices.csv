@@ -1,0 +1,7 @@
+sqft,bedrooms,bathrooms,location,age,lot_size,price
+2000,3,2,City Center,10,0.15,550000
+1600,2,1,Suburban,15,0.20,420000
+2400,4,3,City Center,5,0.18,670000
+1800,3,2,Suburban,20,0.25,460000
+1500,2,1,Rural,30,0.50,350000
+3000,5,4,City Center,2,0.22,750000
